@@ -4,4 +4,4 @@ This repository represents an optimisation framework for selecting remote glampi
 
 The full methodology and computational results are demonstrated in the Jupyter notebook **`Silent Disco Glamping Network.ipynb`**, accompanied by a detailed technical report (**`Technical Write-up.pdf`**). The repository also includes all associated datasets, the original project brief from the AMSI Summer School 2026, and the module **`Linearisationtechnique.py`** (developed by Dr Hoa Bui).
 
-This is originally created as a project submission to Mathematical Optimisation: Theory and Application, AMSI summer School 2026.
+This is originally created as a project submission to Mathematical Optimisation: Theory and Application, AMSI Summer School 2026.
